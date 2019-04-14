@@ -1,0 +1,37 @@
+<scheme name="arkerley's custom" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2019-04-14T08:48:02</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.3.6.0.0</property>
+    <property name="modified">2019-04-14T08:48:20</property>
+    <property name="originalScheme">arkerley's custom</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <colors>
+    <option name="QUESTION_HINT" value="ff98a6" />
+  </colors>
+  <attributes>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="bbb9ff" />
+        <option name="ERROR_STRIPE_COLOR" value="baa8ff" />
+      </value>
+    </option>
+    <option name="SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="8080ff" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="f0f0f0" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
